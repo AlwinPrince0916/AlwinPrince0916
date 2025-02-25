@@ -8,8 +8,6 @@ I'm a **Biostatistician** and **Statistical Consultant** at the **Indian Council
 ## Skills
 - **Programming**: R, Python, SAS, STATA, SPSS
 - **Statistical Methods**: Regression, Survival Analysis, Bayesian Analysis, Meta-Analysis
-- **Tools**: GitHub, LaTeX, Shiny, Jupyter Notebooks
-
 
 ## Connect with Me
 - [LinkedIn](www.linkedin.com/in/alwin-prince-4381ab2a1)
